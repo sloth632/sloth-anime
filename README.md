@@ -46,7 +46,7 @@
 ## Preview
 
 <div align="center">
-  <img src="https://sloth-theatre.vercel.app/preview.png" width="800" />
+  <img src="https://github.com/sloth632/sloth-anime/sloth-pictures/sloth-anime.png" width="800" />
 </div>
 
 ---
