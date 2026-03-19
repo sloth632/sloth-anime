@@ -3,7 +3,7 @@
   <h1>SLOTH ANIME</h1>
   <br />
   <h3>Fast. Clean. Anime Streaming.</h3>  
-  <a href="https://sloth-anime.vercel.app/">
+  <a href="https://sloth-anime.pages.dev/">
     <img src="https://img.shields.io/badge/Website-Live-00bfff?style=flat-square" />
   </a>
   <img src="https://img.shields.io/badge/Status-Active-2ed573?style=flat-square" />
