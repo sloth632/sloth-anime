@@ -15,7 +15,7 @@
 
 ## Live Website
 
-[SLOTH ANIME](https://sloth-anime.vercel.app/)
+[SLOTH ANIME](https://sloth-anime.pages.dev/)
 
 ---
 
