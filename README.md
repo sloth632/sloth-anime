@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/logo-anime.png" alt="Sloth Anime Logo" width="1200" />
+  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/preview-logo.png" alt="Sloth Anime Logo" width="1000" />
   <h1>SLOTH ANIME</h1>
   <br />
   <h3>Fast. Clean. Anime Streaming.</h3>  
@@ -24,8 +24,8 @@
 ### Streaming
 - TV and Movie anime support
 - Fast iframe player
-- Episode autoplay
-- Next episode system
+- Episodes list
+- 3 servers
 
 ### Discovery
 - Trending anime page
