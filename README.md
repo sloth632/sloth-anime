@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/logo-anime.png" alt="Sloth Anime Logo" width="120" />
+  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/logo-anime.png" alt="Sloth Anime Logo" width="1200" />
   <h1>SLOTH ANIME</h1>
   <br />
   <h3>Fast. Clean. Anime Streaming.</h3>  
