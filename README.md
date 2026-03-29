@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/preview-logo.png" alt="Sloth Anime Logo" width="1000" />
-  <h1>SLOTH ANIME</h1>
-  <br />
   <h3>Fast. Clean. Anime Streaming.</h3>  
   <a href="https://sloth-anime.pages.dev/">
     <img src="https://img.shields.io/badge/Website-Live-00bfff?style=flat-square" />
