@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/logo.png" alt="Sloth Anime Logo" width="1000" />
+  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/sloth-anime-logo.png" alt="Sloth Anime Logo" width="800" />
   <br>
   <a href="https://sloth-anime.pages.dev/">
     <img src="https://img.shields.io/badge/Website-Live-00bfff?style=flat-square" />
@@ -13,7 +13,7 @@
 
 ### Access
 * **Website:** [sloth-anime.pages.dev](https://sloth-anime.pages.dev/)
-* **Application:** [Download APK](https://github.com/sloth632/sloth-anime/releases)
+* **Application:** [Download APK](https://github.com/sloth632/sloth-anime/releases/download/Apk/SLOTH-ANIME.apk)
 
 ---
 
