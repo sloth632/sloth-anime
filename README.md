@@ -34,7 +34,7 @@
 
 ### Preview
 <div align="center">
-  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-pictures/prev-web.png" width="800" />
+  <img src="https://github.com/sloth632/sloth-anime/blob/main/sloth-anime-pictures/prev-web.png" width="800" />
 </div>
 
 ---
