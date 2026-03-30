@@ -17,7 +17,7 @@
 
 ---
 
-### Features
+## Features
 
 #### Streaming & UI
 * **Triple Server Support:** Switch between S1, S2, and S3 for stable playback.
